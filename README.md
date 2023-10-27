@@ -6,6 +6,9 @@ An unbeatable Tic-Tac-Toe Engine using a min-max algorithm.
 * [Game Snapshots](#game-snapshots)
 
 ## Game Instructions
+To run the game on your device, simply clone the repository and run the game.py file.
+Initially the game is setup for player 2 i.e. circle to play as an AI. 
+To edit this directly on code toggle the flag on line 168.
 
 - Press 'g' to change game mode (pvp or ai)
 - Press '0' to change ai level to 0 (random)
